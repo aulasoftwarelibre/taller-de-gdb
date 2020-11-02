@@ -1,6 +1,6 @@
-site_name: "Taller de gdb"
+site_name: "Taller de GDB"
 site_author: "Aula de Software Libre <aulasoftwarelibre@uco.es>"
-site_description: "Curso básico de gdb"
+site_description: "Curso básico de GDB"
 site_url: "https://github.com/aulasoftwarelibre/taller-de-gdb"
 
 repo_name: "aulasoftwarelibre/taller-de-gdb"
