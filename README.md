@@ -10,9 +10,21 @@
 
 </div>
 
-Esta plantilla se puede usar para documentar los talleres y actividades del [Aula de Software Libre de la Universidad de Córdoba](https://www.uco.es/aulasoftwarelibre).
+Este taller forma parte de las actividades del [Aula de Software Libre de la
+Universidad de Córdoba](https://www.uco.es/aulasoftwarelibre).
 
-Simplemente usa el botón "Use this template" en vez de clonar el repositorio desde Github.
+El contenido del mismo es en parte de producción propia, en parte de otros
+manuales libres que pueden encontrarse en la sección de [Referencias](docs/referencias.md).
+
+Contenido:
+
+- Inicio
+
+## Agradecimientos
+
+Este curso ha sido impartido por las siguientes personas:
+
+- [Sergio Gómez](https://github.com/sgomez)
 
 ## Licencia
 
